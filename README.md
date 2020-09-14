@@ -1,7 +1,5 @@
 ### Hi there, I'm Siddharth 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/siddharth_m10/)
+[![Instagram Follow](https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/Insta.png)](https://www.instagram.com/siddharth_m10/)
 
 ## I'm a Student
 
@@ -12,7 +10,7 @@
 - ⚡ Fun fact: I like Video Editing and Dancing
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=iB5pwmGlTLyfrtSScQR5Cw)
+[<img src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/DeathBed.jpeg" alt="Siddharth's Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=iB5pwmGlTLyfrtSScQR5Cw)
 
 ### Connect with me:
 [<img align="left" alt="Siddharth | LinkedIn" width="22px" src="https://www.https://www.linkedin.com/in/siddharthmehtaid/" />][linkedin]
@@ -21,7 +19,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
