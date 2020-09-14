@@ -27,6 +27,6 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default&hide=jupyter%20notebook)](https://github.com/Siddharthm10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default)](https://github.com/Siddharthm10)
 
 
