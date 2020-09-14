@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like Video Editing and Dancing
 
 ### Spotify Playing 🎧
-[<img src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/DeathBed.jpeg" alt="Siddharth's Spotify Playing" width="350" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=iB5pwmGlTLyfrtSScQR5Cw)
+[<img src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/DeathBed.jpeg" alt="Siddharth's Spotify Playing" width="200" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=iB5pwmGlTLyfrtSScQR5Cw)
 
 ### Connect with me:
 [<img align="left" alt="Siddharthm10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/siddharthmehtaid)
