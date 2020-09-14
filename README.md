@@ -1,6 +1,4 @@
 ### Hi there, I'm Siddharth 👋
-[![Instagram Follow](https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/Insta.png-color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.instagram.com/siddharth_m10/)
-
 ## I'm a Student
 
 - 🔭 I’m currently studying at NIT Hamirpur
@@ -19,15 +17,13 @@
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="Python" width="26px" src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/Python.png" />]
+[<img align="left" alt="JS" width="26px" src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/JS.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 
 <br />
-<br />
-
 ---
-
 
 <details>
   <summary>:zap: Github Stats </summary>
@@ -36,6 +32,4 @@
 
 </details>
 
-[instagram]: https://www.instagram.com/siddharth_m10/
-[linkedin]: https://www.linkedin.com/in/siddharthmehtaid/
 
