@@ -23,8 +23,10 @@
 <details>
   <summary>:zap: Github Stats </summary>
 
-  <img align="left" alt="Siddharth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Siddharthm10&show_icons=true&hide_border=true" />
+  <img align="left" alt="Siddharth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Siddharthm10&show_icons=true&hide_border=true&theme=highcontrast" />
 
 </details>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default&hide=jupyter%20notebook)](https://github.com/Siddharthm10)
 
 
