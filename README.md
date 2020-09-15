@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: Used Languages </summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default)](https://github.com/Siddharthm10)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default&theme=highcontrast)](https://github.com/Siddharthm10)
 </details>
 
 
