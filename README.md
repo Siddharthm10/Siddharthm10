@@ -16,10 +16,6 @@
 [<img align="left" alt="Siddharthm10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/siddharthmehtaid)
 [<img align="left" alt="Siddharth_m10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/siddharth_m10/)
 
----
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 <details>
