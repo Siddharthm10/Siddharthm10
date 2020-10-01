@@ -1,4 +1,5 @@
-### Hi there, I'm Siddharth 👋
+# Hi there, I'm Siddharth! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ## I'm a Student
 
 - 🔭 I’m currently studying at NIT Hamirpur
@@ -6,11 +7,6 @@
 - 👯 I’m looking to collaborate with other contributers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like Video Editing and Dancing
-
-### Spotify Playing 🎧
-[<img src="https://github.com/Siddharthm10/Siddharthm10/blob/master/Images/DeathBed.jpeg" alt="Siddharth's Spotify Playing" width="100" />](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx?si=iB5pwmGlTLyfrtSScQR5Cw)
-
----
 
 ### Connect with me:
 [<img align="left" alt="Siddharthm10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/siddharthmehtaid)
@@ -20,16 +16,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats </summary>
+[![Stats](https://github-readme-stats.vercel.app/api?username=Siddharthm10&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Siddharthm10&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 
-  <img align="left" alt="Siddharth's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Siddharthm10&show_icons=true&hide_border=true&theme=highcontrast" />
-
-</details>
-
-
-<details>
-  <summary>:zap: Used Languages </summary>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthm10&layout=default&theme=highcontrast)](https://github.com/Siddharthm10)
-</details>
+ ##### I am currently aiming to reach ELO 1300 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+ 
