@@ -36,7 +36,8 @@
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++     1 hr 16 mins    ████████████████▒░░░░░░░░   65.57 % 
+Other   40 mins         ████████▓░░░░░░░░░░░░░░░░   34.43 % 
 ```
 <!--END_SECTION:waka-->
  
