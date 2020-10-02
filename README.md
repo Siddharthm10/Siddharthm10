@@ -49,7 +49,7 @@ Other   40 mins         ████████▓░░░░░░░░░�
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["C", "Python"],
+    code: ["C++", "Python"],
     askMeAbout: ["machine learning and nueral networks", "fps gaming", "photography"],
     currentFocus: "Comptetive Programming using C++",
     funFact: "There are two ways to write error-free programs; only the third one works"
