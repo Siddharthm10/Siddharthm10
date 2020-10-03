@@ -33,7 +33,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=Siddharthm10&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=Siddharthm10&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
 
-📊 **This Week I Spent My Time On:**
+📊 **My Coding Time:**
 <!--START_SECTION:waka-->
 ```text
 C++     1 hr 16 mins    ████████████████▒░░░░░░░░   65.57 % 
