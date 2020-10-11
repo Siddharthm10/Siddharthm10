@@ -49,7 +49,7 @@ Other        1 min           ░░░░░░░░░░░░░░░░░
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const siddharth = {
     pronouns: "He" | "Him",
     code: ["C++", "Python"],
     askMeAbout: ["machine learning and nueral networks", "fps gaming", "photography"],
