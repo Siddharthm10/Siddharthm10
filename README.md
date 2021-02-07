@@ -18,7 +18,7 @@
 
 </br>
 
-#### 👨🏻‍💻 Languages and Tools <br />
+#### Languages and Tools <br />
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=F34108)
