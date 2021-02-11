@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other contributers
 - 💬 Ask me about multiplayer FPS gaming and chess 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Other things I like: I like Video Editing and Dancing
 
 ### Connect with me:
