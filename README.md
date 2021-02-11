@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=window&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=F34108)
-
+![](https://img.shields.io/badge/Framework-Pytorch-F34108https://img.shields.io/badge/Framework-Pytorch-F34108)
 
 
 ---
