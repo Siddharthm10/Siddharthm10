@@ -28,11 +28,12 @@
 #### Languages and Tools <br />
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=F34108)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=F34108)
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=window&logoColor=white&color=F34108)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=F34108)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=F34108)
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=F34108)
 ![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=F34108)
-![](https://img.shields.io/badge/Framework-Pytorch-F34108https://img.shields.io/badge/Framework-Pytorch-F34108)
+![](https://img.shields.io/badge/Framework-Pytorch-F34108?style=flat&logo=pytorch&logoColor=white&color=F34108)
 
 
 ---
