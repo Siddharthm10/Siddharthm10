@@ -9,7 +9,7 @@
 <p align="left">
  
 - 🔭 I’m currently studying at NIT Hamirpur
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything :P
 - 👯 I’m looking to collaborate with other contributers
 - 💬 Ask me about multiplayer FPS gaming and chess 
 - 🥅 2021 Goals: Contribute more to Open Source projects
