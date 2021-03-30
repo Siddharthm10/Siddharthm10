@@ -14,6 +14,7 @@
 - 💬 Ask me about multiplayer FPS gaming and chess 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Other things I like: I like Video Editing and Dancing
+- To know more about me: [Click here](https://siddharthm10.github.io/)
 
 </p>
 
