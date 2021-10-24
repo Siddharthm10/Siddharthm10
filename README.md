@@ -9,10 +9,9 @@
 <p align="left">
  
 - 🔭 I’m currently studying at NIT Hamirpur
-- 🌱 I’m currently learning everything :P
-- 👯 I’m looking to collaborate with other contributers
-- 💬 Ask me about multiplayer FPS gaming and chess 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning MERN Tech Stack.
+- 💬 Ask me about state-of-the-art AI/ML models for several tasks.
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Other things I like: I like Video Editing and Dancing
 - To know more about me: [Click here](https://siddharthm10.github.io/)
 
