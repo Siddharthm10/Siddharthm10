@@ -44,7 +44,7 @@
 📊 **My Coding Time this week:**
 <!--START_SECTION:waka-->
 ```text
-C++    12 mins         ████████████████████████▓   98.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
