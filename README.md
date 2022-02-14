@@ -44,7 +44,7 @@
 📊 **My Coding Time this week:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 mins          █████████████████████████   99.46 % 
+
 ```
 <!--END_SECTION:waka-->
  
