@@ -45,7 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       2 hrs 17 mins   █████████████████▓░░░░░░░   70.04 %
+Markdown     26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+HTML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+CSS          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
