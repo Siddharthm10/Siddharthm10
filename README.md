@@ -8,9 +8,9 @@
 
 <p align="left">
  
-- 🔭 I’m currently studying at NIT Hamirpur
-- 🌱 I’m currently learning MERN Tech Stack.
-- 💬 Ask me about state-of-the-art AI/ML models for several tasks.
+- 🔭 I studied at NIT Hamirpur.
+- 🌱 I’m currently learning Web3.
+- 💬 Ask me about state-of-the-art AI/ML models and full-stack development.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Other things I like: I like Video Editing and Dancing
 - To know more about me: [Click here](https://siddharthm10.github.io/)
