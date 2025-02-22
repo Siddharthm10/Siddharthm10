@@ -8,12 +8,12 @@
 
 <p align="left">
  
-- 🔭 I studied at NIT Hamirpur and am pursuing University at Buffalo.
+- 🔭 I studied at NIT Hamirpur and am pursuing MS in CS at University at Buffalo.
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence (computer vision).
 - 💬 Ask me about state-of-the-art AI/ML models and full-stack development.
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Other things I like: I like Video Editing and Dancing
-- To know more about me: [Click here](https://siddharthm10.github.io/)
+- To know more about me: [Click here](https://siddharthmehta.in/)
 
 </p>
 
