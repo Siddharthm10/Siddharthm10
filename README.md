@@ -26,7 +26,3 @@
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=F34108)
 ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=F34108)
 ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=F34108)
-
-## 📊 GitHub Stats
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthm10&show_icons=true&theme=radical)
