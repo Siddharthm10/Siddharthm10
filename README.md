@@ -7,7 +7,7 @@
 - 💼 Previously worked as a Business Technology Solutions Associate at ZS Associates.
 - 🌱 Currently exploring Machine Learning, Artificial Intelligence, and Computer Vision.
 - 💬 Ask me about state-of-the-art AI/ML models and full-stack development.
-- 🎯 2025 Goals: Contribute more to Open Source projects.
+- 🎯 2026 Goals: Contribute more to Open Source projects.
 - 🎥 Hobbies: Video Editing and Dancing.
 - 🔗 To know more about me: [siddharthmehta.in](https://siddharthmehta.in/) ([Siddharth Mehta - Buffalo, New York, United States - LinkedIn](https://www.linkedin.com/in/siddharthmehtaid/?utm_source=chatgpt.com))
 
