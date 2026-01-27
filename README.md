@@ -2,8 +2,8 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 I'm currently pursuing an M.S. in Computer Science at the University at Buffalo, SUNY.
-- 🏫 Graduated with a B.Tech in Computer Science from NIT Hamirpur in 2022.
+- 🎓 Graduated with MS in Computer Science at the University at Buffalo in 2026.
+- 🏫 Graduated with a B.Tech in Electrical Engineering from NIT Hamirpur in 2022.
 - 💼 Previously worked as a Business Technology Solutions Associate at ZS Associates.
 - 🌱 Currently exploring Machine Learning, Artificial Intelligence, and Computer Vision.
 - 💬 Ask me about state-of-the-art AI/ML models and full-stack development.
